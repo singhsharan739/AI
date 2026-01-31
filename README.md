@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Description: Develop an AI-based personal shopping assistant that can assist users in finding products they need based on their preferences, budget, and shopping history. The system could use machine learning algorithms to understand user behavior and offer recommendations accordingly. The system could also integrate with e-commerce websites and offer real-time price comparisons, notify users of deals or discounts, and provide personalized shopping experiences. Users could interact with the assistant using natural language processing (NLP) and voice commands, making the system accessible and user-friendly.
+Description: Develop an AI-based personal shopping assistant that can assist users in finding products they need based on their preferences, budget, and shopping history. The system could use machine learning algorithms to understand user behavior and offer recommendations accordingly. The system could also integrate with e-commerce websites and offer real-time price comparisons, notify users of deals or discounts, and provide personalized shopping experiences. Users could interact with the assistant using natural language processing (NLP) and voice commands, making the system accessible and user-friendly. and usefully 
 
 
 
